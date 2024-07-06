@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="150" src="https://github-readme-stats.vercel.app/api?username=LuanaRDGS&show_icons=true&theme=ambient_gradient">
-  <img align="center" alt="Rafa-Js" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaRDGS&hide_progress=true&theme=ambient_gradient">
+  <img align="center" alt="Rafa-Js" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaRDGS&hide_progress=true&theme=ambient_gradient">
 </div>
 
 <div style="display: inline_block"><br>
