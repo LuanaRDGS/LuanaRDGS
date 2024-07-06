@@ -1,4 +1,4 @@
-## Oiii eu sou a Luana Rsdrigues, Analista de requisitos e DEV front!
+## Oiii eu sou a Luana Rodrigues, Analista de requisitos e DEV front!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="150" src="https://github-readme-stats.vercel.app/api?username=LuanaRDGS&show_icons=true&theme=ambient_gradient">
